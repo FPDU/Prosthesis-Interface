@@ -1,2 +1,2 @@
-# Sensation-Features
-Sensation feature table
+# Prosthesis-Interface
+Prosthesis Interface table
